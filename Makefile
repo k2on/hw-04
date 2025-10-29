@@ -1,0 +1,2 @@
+run:
+	./mvnw javafx:run
