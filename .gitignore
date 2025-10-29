@@ -38,3 +38,4 @@ build/
 .DS_Store
 
 .direnv/
+fitts_law_results.csv
